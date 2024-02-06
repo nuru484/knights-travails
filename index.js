@@ -48,7 +48,6 @@ function knightMoves(start, end) {
 
   return []; // Return empty array if no path is found
 }
-
 // Example usage:
 const start = [0, 0];
 const end = [3, 3];
