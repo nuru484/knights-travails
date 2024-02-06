@@ -18,3 +18,14 @@ const start = [0, 0];
 const end = [3, 3];
 console.log('Shortest path:', knightMoves(start, end));
 ```
+
+## Author
+
+- Twitter - [Nurudeen Abdul-Majeed](https://twitter.com/ABDULMAJEEDNUR3)
+- Linkedin - [Nurudeen Abdul-Majeed](https://www.linkedin.com/in/abdul-majeed-nurudeen-78266a182/)
+
+## Acknowledgments
+
+- Thanks to [The Odin Project](https://www.theodinproject.com/)
+
+- All praised to Allah.
